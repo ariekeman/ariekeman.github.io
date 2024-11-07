@@ -6,8 +6,12 @@ h1 {
     font-size: 2.5em;   /*Change font size*/
 }
 
+h2 {
+    font-size: 2em;
+}
+
 a {
-    color: #FFFF00; /*A yellow link color*/
+    color: #008000; /*A green link color*/
 }
 
 body {
@@ -18,4 +22,8 @@ body {
 
 div {
     white-space: pre-line;  /*Within div, having things on a new line will do the same on the page*/
+}
+
+.space {
+    margin-top: 1em;
 }
