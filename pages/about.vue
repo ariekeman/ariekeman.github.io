@@ -16,7 +16,7 @@
             <div>
                 <a href="https://kloudbusters.org/content.aspx?page_id=22&club_id=325948&module_id=683514">My favorite website</a>
 
-                <img src="Rocket Launch.JPG" alt="Rocket Launching" width="500">
+                <img src="assets/Rocket Launch.JPG" alt="Rocket Launching" width="500">
 
                 <iframe width="864" height="486" src="https://www.youtube.com/embed/y5e6abujFHE?autoplay=1&mute=1"></iframe>         
             </div>
