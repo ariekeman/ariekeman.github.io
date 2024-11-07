@@ -1,5 +1,5 @@
 <template>
-    <PrimePanel>
+    <PrimePanel header="Index" class="my-6">
         <head>
             <title>index.html</title>
             <link rel="stylesheet" type="text/css" href="fancy.css">
